@@ -1,0 +1,17 @@
+{
+	"name": "bartzalewski.com-v2-api",
+	"version": "1.0.0",
+	"description": "API for Bart Zalewski's website",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Bart Zalewski",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"express": "^4.17.1",
+		"nodemailer": "^6.4.6"
+	}
+}
